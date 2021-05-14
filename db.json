@@ -1,6 +1,4 @@
-{ 
- Thematiques :
-[
+{"Thematiques" : [
     {
     "date":"18 mars",
     "webinaire":"Enjeux du livre au temps du numérique. C’est pour aujourd’hui ou pour demain?",
@@ -30,3 +28,4 @@
        }
     ]
 }
+   
